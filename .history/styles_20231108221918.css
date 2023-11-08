@@ -83,7 +83,7 @@ body {
     border-top-left-radius: 90px;
     border-bottom-left-radius: 40%;
     border-bottom-right-radius: 40%;
-    z-index: -1;
+    z-index: ;
 }
 
 .cat-right-inner-ear {
@@ -97,5 +97,5 @@ body {
     border-top-left-radius: 90px;
     border-bottom-left-radius: 40%;
     border-bottom-right-radius: 40%;
-    z-index: -1;
+    z-index: 1;
 }

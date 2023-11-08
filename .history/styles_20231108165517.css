@@ -73,9 +73,9 @@ body {
 }
 
 .cat-left-inner-ear {
-    border-left: 10px solid transparent;
-    border-right: 10px solid transparent;
-    border-bottom: 20px solid #fff;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 40px solid #3b3b4f;
     position: absolute;
     top: 11px;
     left: -10px;
@@ -83,7 +83,6 @@ body {
     border-top-left-radius: 90px;
     border-bottom-left-radius: 40%;
     border-bottom-right-radius: 40%;
-    z-index: -1;
 }
 
 .cat-right-inner-ear {
@@ -92,10 +91,9 @@ body {
     border-bottom: 20px solid #fff;
     position: absolute;
     top: 11px;
-    left: -10px;
+    left: -20px;
     border-top-right-radius: 10px;
     border-top-left-radius: 90px;
     border-bottom-left-radius: 40%;
     border-bottom-right-radius: 40%;
-    z-index: -1;
 }
