@@ -108,7 +108,6 @@ body {
     position: absolute;
     top: 54px;
     left: 39px;
-    border-radius: 80%;
 }
 
 .cat-right-eye {
@@ -118,23 +117,5 @@ body {
     position: absolute;
     top: 54px;
     right: 39px;
-    border-radius: 80%;
-}
-
-.cat-left-inner-eye {
-    width: 15px;
-    height: 20px;
-    background-color: #fff;
-    top: 70px;
-    left: 20px;
-    border-radius: 100%;
-}
-
-.cat-right-inner-eye {
-    width: 15px;
-    height: 20px;
-    background-color: #fff;
-    top: 30px;
-    right: 20px;
-    border-radius: 100%;
+    border-radius
 }
