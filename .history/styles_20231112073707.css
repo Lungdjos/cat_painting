@@ -186,21 +186,5 @@ body {
 
 .cat-whisker-right-top {
     position: absolute;
-    top: 120px;
-    left: 109px;
-    transform: rotate(-10deg);
-}
-
-.cat-whisker-right-middle {
-    position: absolute;
-    top: 127px;
-    left: 109px;
-    transform: rotate(-3deg);
-}
-
-.cat-whisker-right-bottom {
-    position: absolute;
-    left: 109px;
-    top: 134px;
-    transform: rotate(3deg);
+    top: 129;
 }

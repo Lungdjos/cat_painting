@@ -195,12 +195,5 @@ body {
     position: absolute;
     top: 127px;
     left: 109px;
-    transform: rotate(-3deg);
-}
-
-.cat-whisker-right-bottom {
-    position: absolute;
-    left: 109px;
-    top: 134px;
-    transform: rotate(3deg);
+    /* transform: rotate(3deg); */
 }
